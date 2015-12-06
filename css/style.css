@@ -1,0 +1,25 @@
+@font-face {
+    font-family: msans;
+    src: url(modern.ttf);
+}
+.logo {
+	padding-top: 150px;
+}
+.logo img {
+	height: 250px;
+	margin: auto;
+}
+.title {
+	padding-top: 100px;
+}
+.title img {
+	height: 80px;
+	margin: auto;
+}
+.soon p {
+	font-family: msans;
+	color: #7DA400;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 20px;
+}
